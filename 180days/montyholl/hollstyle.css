@@ -1,0 +1,40 @@
+body {
+	background: #ededed;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+#text_container {
+	width: 800px;
+	margin: 20px auto 50px;
+	text-align: center;
+	color: #37122c ;
+}
+
+#title {
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+
+#pid {
+	font-family: Consolas, monaco, monospace;
+	font-size: 18px;
+	line-height: 1.4px;
+}
+#downp {
+	font-family: Consolas, monaco, monospace;
+	font-size: 18px;
+	line-height: 1.4px;
+	text-align: center;
+	color: #37122c ;
+}
+
+#doors_container {
+	text-align: center;
+}
+
+.door {
+	display: inline-block;
+	margin: 0 30px;
+}
+
+#
